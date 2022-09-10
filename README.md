@@ -1,5 +1,5 @@
 # BlogWebsite-MERN
-this is a source code for blogging website, made for project submission of Nodejs Workshop.  
+this is a source code for blogging website, made for project submission of  NodeJS workshop under Students' Web Committee, IIT Guwahati.
 
 ## Technologies used
 React(frontend framework)
